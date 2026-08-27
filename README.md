@@ -150,7 +150,7 @@
 
         <main class="contenedor">
             <header>
-                <h1>TEORÍA DEL INTERNET MUERTO</h1>
+                <h1>Teoría del internet muerto</h1>
                 <h2> sesgo algorítmico y la deshumanización de los datos</h2>
                 <h3>Por <a href="#">Martina Casas</a>, <a href="#">Gonzalo Monsalves</a>, <a href="#">Marthin Rivera</a>, <a href="#">Violeta Santander</a> y <a href="#">Fernanda Valenzuela.</a></h3>
             </header>
