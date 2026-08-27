@@ -150,9 +150,9 @@
 
         <main class="contenedor">
             <header>
-                <h1>Este es un gran título</h1>
-                <h2>Esta es una bajada, que puede extender el título</h2>
-                <h3>Por <a href="#">Nombre</a>, <a href="#">Nombre</a>, <a href="#">Nombre</a> y <a href="#">Nombre</a></h3>
+                <h1>TEORÍA DEL INTERNET MUERTO</h1>
+                <h2> sesgo algorítmico y la deshumanización de los datos</h2>
+                <h3>Por <a href="#">Martina Casas</a>, <a href="#">Gonzalo Monsalves</a>, <a href="#">Marthin Rivera</a>, <a href="#">Violeta Santander</a> y <a href="#">Fernanda Valenzuela.</a></h3>
             </header>
 
             <article>
